@@ -1,6 +1,9 @@
 title: Новые русские казино на деньги
+description: Обзоры и лучшие предложения 2026
 remote_theme: pages-themes/hacker@v0.2.0
+language: ru-RU
 permalink: /:title/
+show_downloads: false
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
