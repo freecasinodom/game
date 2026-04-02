@@ -1,6 +1,6 @@
 title: Новые русские казино на деньги
 remote_theme: pages-themes/hacker@v0.2.0
-permalink: /:title.html
+permalink: /:title/
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
